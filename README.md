@@ -118,8 +118,10 @@ Performance includes tests under network partition scenarios and injected failur
 - Testing scenarios included varying node counts, induced network partitions, and different heartbeat frequencies and thresholds.
 - Detailed runtime logs, reachability trends, and bandwidth metrics were collected during each test phase.  
 - Visualizations of log outputs, node failure detection timelines, and traffic patterns are available upon request.
-> If you would like access to the complete experimental results, data visualizations, or wish to discuss the framework in more depth, please feel free to contact me.
+
 ---
-🌐 **Contact:** 
+
+> If you would like access to the complete experimental results, data visualizations, or wish to discuss the framework in more depth, please feel free to contact me.
+## 🌐 **Contact:** 
 - **Email**: manne.bharadwaj.1953@gmail.com
 - **LinkedIn**: [Bharadwaj Manne](https://www.linkedin.com/in/bharadwaj-manne-711476249/)
